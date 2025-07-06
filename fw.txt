@@ -2,3 +2,4 @@ payload:
   - '+.torrentmac.net'
   - '+.iyf.tv'
   - '+.scribd.com'
+  - '+.xiaoyakankan.com'
